@@ -7,3 +7,5 @@ The data set used has been posted on Kaggle by [Alberto Barradas](https://www.ka
 This application takes the form of a dashboard fully built in R, using the package "shiny".
 
 The application is currently deployed on a shinyapps.io server, available [here.](https://l2cgauthier.shinyapps.io/PokedexAnalysis/)
+
+![](https://github.com/L2cGauthier/PokedexDashboard/blob/master/Screenshots/Screenshot1.png)
